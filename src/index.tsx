@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename='/page_for_managing_users'>
+    <BrowserRouter basename='/forms_for_user_info'>
     <App />
     </BrowserRouter>
   </React.StrictMode>
